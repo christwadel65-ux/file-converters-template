@@ -361,9 +361,9 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de
 
 **Christ Wadel**
 
-- 🌐 Portfolio : [christwadel65-ux.github.io/Site_git](https://christwadel65-ux.github.io/Site_git/)
+- 🌐 website : easycoding.fr 
 - 💼 GitHub : [@christwadel65-ux](https://github.com/christwadel65-ux)
-- 📧 Email : [votre-email@example.com]
+- 📧 Email : [admin@easycoding.fr]
 
 ---
 
